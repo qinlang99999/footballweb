@@ -1,2 +1,2 @@
-# footballweb
-襄阳计算机球队官网
+# Football-academy
+Football Academy Website with login, trial registration and email system built using HTML, CSS, JavaScript and Firebase.
